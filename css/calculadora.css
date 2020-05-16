@@ -1,0 +1,13 @@
+body {
+	background-color: gray;
+	text-align: center;
+  }
+.btn{
+	width: 100px;
+	height: 90px;
+	margin: 10px;
+	margin-left: 17px;
+  }
+.botaoigual {
+	width: 30em;
+}
